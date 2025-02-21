@@ -85,13 +85,6 @@ Open **DMT-project-phase1.ipynb** and **DMT-project-phase2.ipynb** to explore th
 
 ---
 
-## **👨‍💻 Author**
-**Vishal Rohith Chinnam**  
-CS235 - Data Mining Techniques  
-University of California, Riverside
-
----
-
 ## **📢 Conclusion**
 This project successfully implements **various data mining techniques**, including:
 - **Supervised Learning**
